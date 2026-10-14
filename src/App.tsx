@@ -5,17 +5,17 @@ const STATIC_DATA = [
   {
     paket: "A (SD)",
     mapel: "GURU KELAS SD",
-    link: "https://nuraeni.vercel.app/",
+    link: "https://annisa-vert.vercel.app/",
   },
   {
     paket: "B (SMP)",
-    mapel: "BAHASA INGGRIS",
-    link: "https://heni-indrayani.vercel.app/",
+    mapel: "IPA",
+    link: "https://nurfiana-agustina.vercel.app/",
   },
   {
     paket: "C (SMA)",
-    mapel: "MATEMATIKA",
-    link: "https://sukirman-r.vercel.app/",
+    mapel: "BAHASA INDONESIA",
+    link: "https://rosmiati.vercel.app/",
   },
 ];
 
